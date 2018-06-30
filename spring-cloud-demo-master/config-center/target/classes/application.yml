@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+spring:
+  cloud:
+    config:
+      server:
+        svn:
+          uri: https://172.16.1.71:61992/svn/2017-Monitor/bs代码/后端/GZCMS/works/
+          username: yangmiao
+          password: DS#%#D32353E!@_GZ-gis
+        default-label: config-repo
+  profiles:
+    active: subversion
+  application:
+    name: spring-cloud-config-server
+

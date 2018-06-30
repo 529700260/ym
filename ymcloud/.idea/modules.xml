@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service2/Service2.iml" filepath="$PROJECT_DIR$/Service2/Service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service0/service0.iml" filepath="$PROJECT_DIR$/service0/service0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymcloud.iml" filepath="$PROJECT_DIR$/ymcloud.iml" />
+    </modules>
+  </component>
+</project>
